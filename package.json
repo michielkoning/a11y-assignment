@@ -1,5 +1,5 @@
 {
-  "name": "a11y",
+  "name": "a11y-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://michielkoning@github.com/michielkoning/a11y.git"
+    "url": "git+https://michielkoning@github.com/michielkoning/a11y-assignment.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michielkoning/a11y/issues"
+    "url": "https://github.com/michielkoning/a11y-assignment/issues"
   },
-  "homepage": "https://github.com/michielkoning/a11y#readme",
+  "homepage": "https://github.com/michielkoning/a11y-assignment#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
   }
