@@ -112,6 +112,7 @@ img {
   display: flex;
   justify-content: flex-end;
   padding: 1em 0;
+  flex-wrap: wrap;
 }
 
 .footer a {
@@ -120,6 +121,10 @@ img {
   width: 24px;
   opacity: 0.5;
   margin-right: 0.5em;
+}
+
+.footer strong {
+  flex: 0 0 100%;
 }
 
 input {
